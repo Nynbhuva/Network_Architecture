@@ -11,4 +11,4 @@ Assigning IP addresses can be done manually or through a DHCP server, depending 
 
 The network is properly implemented and tested to ensure that it is functioning correctly
 
-Created by: Nayanbhai Bhuva, Contact:nynbhuva@gmail.com
+Created by: Nayanbhai Bhuva, Contact: nynbhuva@gmail.com
