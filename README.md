@@ -10,3 +10,5 @@ There are five departments in the company such as IT, Management, Finance, Marke
 Assigning IP addresses can be done manually or through a DHCP server, depending on the company's requirements. It's important to ensure that IP addresses and VLANs are assigned correctly to avoid conflicts and ensure proper connectivity.
 
 The network is properly implemented and tested to ensure that it is functioning correctly
+
+Created by: Nayanbhai Bhuva, Contact:nynbhuva@gmail.com
